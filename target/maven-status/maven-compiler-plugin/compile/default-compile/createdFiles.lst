@@ -1,0 +1,3 @@
+com\niit\dao\UsersDAO.class
+com\niit\models\User.class
+com\niit\models\ForumComments.class
